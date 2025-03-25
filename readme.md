@@ -19,8 +19,8 @@ GIT logo by [Jason Long](http://git-scm.com/downloads/logos), license [CC BY 3.0
 3. [Команды](commands.md) 
 4. [Файл .gitignore](gitignore.md)
 5. [GITHUB](github.md)
-6. Индексация и коммит
-7. Ветвление
-8. Конфликты
-9. Удаленные репозитории
-10. Форк
+6. [Индексация и коммит](staged&commit.md)
+7. [Ветвление](branch.md)
+8. [Конфликты](conflicts.md)
+9. [Удаленные репозитории](remote_repository.md)
+10. [Форк](fork.md)
